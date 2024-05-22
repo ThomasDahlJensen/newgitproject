@@ -5,3 +5,4 @@ echo '<br>';
 print ('GoodBye');
 echo "<br>";
 echo "hej";
+echo "hej igen";
