@@ -1,1 +1,4 @@
-foldername/ *.txt
+foldername/
+*.txt
+file1.php
+file2.php
