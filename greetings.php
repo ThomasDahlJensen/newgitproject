@@ -9,4 +9,15 @@ print ('Welcome my friend');
 
 // Ask the user what he/she wants to drink
 
+
 // test af nyt branch - newbranch
+
+// test feature
+
+echo "test";
+
+echo "test master";
+
+
+
+
