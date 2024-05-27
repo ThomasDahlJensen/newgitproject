@@ -8,11 +8,3 @@ print ('Welcome my friend');
 
 
 // Ask the user what he/she wants to drink
-
-<<<<<<< HEAD
-// check master branch
-
-// vi prøver igen
-=======
-// test feature
->>>>>>> feature
