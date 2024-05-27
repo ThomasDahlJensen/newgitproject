@@ -12,3 +12,5 @@ print ('Welcome my friend');
 // test feature
 
 echo "test";
+
+echo "test feature";
