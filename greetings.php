@@ -10,3 +10,5 @@ print ('Welcome my friend');
 // Ask the user what he/she wants to drink
 
 // test feature
+
+echo "test";
