@@ -9,3 +9,5 @@ echo "hej igen";
 echo "hej igen igen";
 
 echo "new line for branch issue";
+
+echo "yes";
